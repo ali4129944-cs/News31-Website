@@ -8,7 +8,7 @@
 - Each page contains images, headings, and descriptive text.
 - Consistent design and color theme for a professional look.
 
-## Pages / Screens
+## Pages 
 
 1. **Home Page**  
    Displays top headlines, technology updates, and weather highlights.  
